@@ -1,0 +1,8 @@
+wheel/bin/*
+wheel/gen/*
+
+wheel-demo/bin/*
+wheel-demo/gen/*
+
+wheel/.settings/*
+wheel-demo/.settings/*
